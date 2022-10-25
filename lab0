@@ -1,0 +1,20 @@
+mkdir lab0
+cd lab0
+mkdir crobat3
+cd crobat3
+echo -e "Способности Tackle Howl Sand-Attack Bite Odor Sleuth Roar\nSwagger Assurance Scary Face Taunt Embargo Take Down Sucker Punch\nCrunch" > poochenya
+mkdir luxray
+mkdir hippowdon
+cd ..
+echo -e "Способности  Overcharge Static Inner\nFocus" > electivire7
+mkdir liepard3
+cd liepard3
+echo Живет  Freshwater Marsh > swanna
+echo -e "Способности  Mind Mold\nForewarn Synchronize" > munna
+echo -e "Ходы  Aqua Tail Body Slam Bounce Covet\nDefense Curl Dive Double-Edge Dynamicpunch Focus Punch Helping Hand\nHyper Voice Ice Punch Icy Wind Iron Tail Knock Off Mega Kick Mega\nPunch Mud-Slap Rollout Seismic Toss Sleep Talk Snore Superpower Swift\nUproar Water Pulse" > azumarill
+echo -e "Ходы  Assurance Avalanche Dark Pulse\nDefense Curl Double-Edge Dynamicpunch Embargo Focus Punch Foul Play\nFury Cutter Ice Punch Icy Wind Iron Tail Knock Off Low Kick Mud-Slap\nRevenge Sleep Talk Snatch Snore Spite Swift Taunt" > weavile
+echo -e "Живет\nCave Mountain" > metagross
+touch mothim
+cd ..
+echo satk=6 sdef=8 spd=3 > parasect8
+echo -e "Способности\nCharm Thundershock Tail Whip Thunder Wave Sweet Kiss Nasty Plot" > pichu4
