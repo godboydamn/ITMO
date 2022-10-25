@@ -23,3 +23,22 @@ touch mothim
 cd ..
 echo satk=6 sdef=8 spd=3 > parasect8
 echo -e "Способности\nCharm Thundershock Tail Whip Thunder Wave Sweet Kiss Nasty Plot" > pichu4
+
+
+chmod u+w palpitoad0
+cat electivire7 > palpitoad0/azumarillelectivire
+cd crobat3
+chmod u+w hippowdon
+cd ..
+cp -r palpitoad0 crobat3/hippowdon
+cd crobat3
+chmod u-w hippowdon
+cd ..
+ln -s parasect8 palpitoad0/azumarillparasect
+chmod u-w palpitoad0
+ln -s crobat3 Copy_87
+chmod u+w crobat3
+ln parasect8 crobat3/poochyenaparasect
+chmod u-w crobat3
+cp electivire7 crobat3/luxray
+
