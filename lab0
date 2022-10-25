@@ -11,6 +11,11 @@ mkdir liepard3
 cd liepard3
 echo Живет  Freshwater Marsh > swanna
 echo -e "Способности  Mind Mold\nForewarn Synchronize" > munna
+mkdir slowking
+mkdir skitty
+cd ..
+mkdir palpitoad0
+cd palpitoad0
 echo -e "Ходы  Aqua Tail Body Slam Bounce Covet\nDefense Curl Dive Double-Edge Dynamicpunch Focus Punch Helping Hand\nHyper Voice Ice Punch Icy Wind Iron Tail Knock Off Mega Kick Mega\nPunch Mud-Slap Rollout Seismic Toss Sleep Talk Snore Superpower Swift\nUproar Water Pulse" > azumarill
 echo -e "Ходы  Assurance Avalanche Dark Pulse\nDefense Curl Double-Edge Dynamicpunch Embargo Focus Punch Foul Play\nFury Cutter Ice Punch Icy Wind Iron Tail Knock Off Low Kick Mud-Slap\nRevenge Sleep Talk Snatch Snore Spite Swift Taunt" > weavile
 echo -e "Живет\nCave Mountain" > metagross
