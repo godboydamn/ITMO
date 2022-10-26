@@ -42,3 +42,34 @@ ln parasect8 crobat3/poochyenaparasect
 chmod u-w crobat3
 cp electivire7 crobat3/luxray
 
+
+ls -Rlt | grep 'y$' 2>&1
+cat -n parasect8 | grep -v 'ck' 2>/dev/null
+cd crobat3
+wc -l poochyena poochyenaparasect hippowdon/azumarill hippowdon/azumarillelectivire hippowdon/metagross hippowdon/weavile luxray/electivire7 | sort 2>../tmp/errors
+ls -l | sort -n -k 2 -r 2>&1
+cd ..
+ls -Rl | grep 'na' | head -4 | sort -k 6 2>/dev/null
+ls -Rlr | grep 'le' | head -4
+
+
+rm electivire7
+chmod u+w palpitoad0
+cd palpitoad0
+rm azumarill
+cd ..
+chmod u-w palpitoad0
+rm Copy_* */Copy_* */*/Copy_*
+chmod u+w crobat3
+rm crobat3/poochyenaparase*
+chmod u-w crobat3
+cd liepard3
+rmdir skitty
+rmdir slowking
+rm swanna 
+rm munna
+cd ..
+rmdir liepard3
+
+
+
